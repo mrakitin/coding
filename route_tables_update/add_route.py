@@ -63,5 +63,3 @@ if address_to_route:
         pass
 else:
     print 'ERROR! The VPN interface is not connected. The route to %s has not been added.' % (qsh_ip)
-
-print ''
